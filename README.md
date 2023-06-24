@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif">
+<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/wX2L8L-fGeA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nt044&label=Profile%20views&color=0e75b6&style=flat" alt="nt044" /> </p>
 
 - 📫 How to reach me **neha.thakran2001@gmail.com**
